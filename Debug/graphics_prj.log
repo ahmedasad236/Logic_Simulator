@@ -1,0 +1,30 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ApplicationManager.cpp
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(580,21): warning C4018: '<': signed/unsigned mismatch
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(894,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(895,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(897,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(898,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(902,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(906,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(907,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(911,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(913,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(914,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(916,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(918,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(918,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(924,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(925,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(926,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(927,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(932,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(939,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(947,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(953,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(954,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(955,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(956,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(958,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\ApplicationManager.cpp(958,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  graphics_prj.vcxproj -> E:\Ahmed\CMP\1st Year\1st Semster\Programming Techniques\Project\15\Logic Simulator\.\Debug\graphics_prj.exe
